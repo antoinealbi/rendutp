@@ -2,7 +2,7 @@
 ## Question 1 & 2 - A. Database
 
 
-![DB](rendus/png/db.png)
+![DB](png/db.png)
 
 
 ## Question 3 
@@ -254,7 +254,7 @@ Last login: Sun Jun 23 17:55:21 2024 from 10.3.1.11
 
 img : 
 
-![ssh](rendus/png/ssh.png)
+![ssh](png/ssh.png)
 
 ![alt text](rendus/png/sshint.png)
 

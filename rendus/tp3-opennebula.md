@@ -256,7 +256,7 @@ img :
 
 ![ssh](png/ssh.png)
 
-![alt text](rendus/png/sshint.png)
+![alt text](png/sshint.png)
 
 ## 12
 
@@ -281,9 +281,9 @@ yes
 ## Arret a cette erreur : 
 
 
-![error1](rendus/png/error1.png) 
+![error1](png/error1.png) 
 
-![error2](rendus/png/error2.png)
+![error2](png/error2.png)
 
 
 Logs : 

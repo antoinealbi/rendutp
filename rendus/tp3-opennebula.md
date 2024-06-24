@@ -2,7 +2,7 @@
 ## Question 1 & 2 - A. Database
 
 
-![DB](/png/db.png)
+![DB](rendus/png/db.png)
 
 
 ## Question 3 
@@ -254,9 +254,9 @@ Last login: Sun Jun 23 17:55:21 2024 from 10.3.1.11
 
 img : 
 
-![ssh](/png/ssh.png)
+![ssh](rendus/png/ssh.png)
 
-![alt text](/png/sshint.png)
+![alt text](rendus/png/sshint.png)
 
 ## 12
 
@@ -281,9 +281,9 @@ yes
 ## Arret a cette erreur : 
 
 
-![error1](/png/error1.png) 
+![error1](rendus/png/error1.png) 
 
-![error2](/png/error2.png)
+![error2](rendus/png/error2.png)
 
 
 Logs : 

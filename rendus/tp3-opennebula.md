@@ -1,11 +1,11 @@
 
-## Question 1 & 2 - A. Database
+## 1 & 2 - A. Database
 
 
 ![DB](png/db.png)
 
 
-## Question 3 
+## 3 
 
 
 ##### Commande :
@@ -62,7 +62,7 @@ python3-pyone-0:6.0.0.3-1.ce.el8.noarch
 ```
 
 __________________________________________________________________________
-## Question 4, 5, 6 - B. OpenNebula
+## 4, 5, 6 - B. OpenNebula
 
 
 
@@ -86,7 +86,7 @@ oneadmin:password
 
 ```
 
-###6
+### 6
 
 ```
 
@@ -165,9 +165,9 @@ Jun 23 17:28:09 frontend.one opennebula-sunstone[7279]: == Sinatra (v3.1.0) has 
 
 ```
 
-## Question 7, 8, 9
+## 7, 8, 9
 
-Conf système : 
+### Conf système : 
 
 ```
 
@@ -189,7 +189,7 @@ public (active)
   
 ```
 
-8 : 
+### 8 : 
 
 ```
 [oneadmin@kvm1 vagrant]$ sudo dnf list installed | grep qemu-kvm
@@ -212,7 +212,7 @@ qemu-kvm-ui-opengl.x86_64                     17:8.2.0-11.el9_4.3               
 
 ```
 
-9 :
+### 9 :
 
 ```
 
